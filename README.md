@@ -1,2 +1,1 @@
-# zydoot.xyz
-is a random website i'm making, expect dumb shit there.
+its a random website i'm making, expect dumb shit there.
